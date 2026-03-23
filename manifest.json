@@ -1,0 +1,16 @@
+{
+  "name": "Super Breakout Offline",
+  "short_name": "Breakout",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#222222",
+  "theme_color": "#0095DD",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/5690/5690526.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
